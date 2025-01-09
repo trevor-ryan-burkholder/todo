@@ -7,7 +7,6 @@ Just another todo app built in React.
 - Add, edit, and delete tasks
 - Mark tasks as complete or incomplete
 - Sort tasks by status and priority
-- Persistent storage using local storage
 - Responsive design for use on mobile, tablet, and desktop devices
 
 ## Technologies Used
